@@ -1,0 +1,57 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/M9jxGf2/app-development.jpg",
+        "title": "Exploring the Mysteries of Quantum Mechanics",
+        "Author": "Sarah Johnson",
+        "Author_img": "https://i.ibb.co/RCmCTp1/boy1.png",
+        "Img": "[Link to Article Image]",
+        "Posted_Date": "September 5, 2023",
+        "Reading_Time": 8,
+        "Hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/vHk32sr/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+        "title": "The Art of Baking Perfect Sourdough Bread",
+        "Author": "David Baker",
+        "Author_img": "https://i.ibb.co/m0xfbLm/boy2.jpg",
+        "Img": "[Link to Article Image]",
+        "Posted_Date": "August 20, 2023",
+        "Reading_Time": 10,
+        "Hashtags": ["#Baking", "#Sourdough", "#CookingTips"]
+    },
+    {
+        "id": "24680",
+        "cover": "https://i.ibb.co/NS2R5sh/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "Mastering Productivity: Tips for Getting More Done",
+        "Author": "Emily Smith",
+        "Author_img": "https://i.ibb.co/9w0CkX1/girl1.jpg",
+        "Img": "[Link to Article Image]",
+        "Posted_Date": "July 15, 2023",
+        "Reading_Time": 6,
+        "Hashtags": ["#Productivity", "#TimeManagement", "#WorkSmarter"]
+    },
+    {
+        "id": "13579",
+        "cover": "https://i.ibb.co/PYyGPf7/web-design-concept-with-drawings.jpg",
+        "title": "Traveling Through History: A Journey to Ancient Rome",
+        "Author": "John Doe",
+        "Author_img": "https://i.ibb.co/cK579t7/profile.png",
+        "Img": "[Link to Article Image]",
+        "Posted_Date": "June 10, 2023",
+        "Reading_Time": 12,
+        "Hashtags": ["#Travel", "#History", "#AncientRome"]
+    },
+    {
+        "id": "54321",
+        "cover": "https://i.ibb.co/30y7B1z/website-development.jpg",
+        "title": "The Art of Photography: Capturing Moments in Time",
+        "Author": "Linda Smith",
+        "Author_img": "https://i.ibb.co/1d9YZ82/girl2.jpg",
+        "Img": "[Link to Article Image]",
+        "Posted_Date": "May 3, 2023",
+        "Reading_Time": 7,
+        "Hashtags": ["#Photography", "#Art", "#Creativity"]
+    }
+]
